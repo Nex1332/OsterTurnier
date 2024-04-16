@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaFX_FXML_LanguageLevel_8_JDK_11:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaFX_FXML_LanguageLevel_8_JDK_11_jar</output-path>
+    <root id="archive" name="JavaFX_FXML.jar">
+      <element id="module-output" name="JavaFX_FXML" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.10/javafx-controls-17.0.10-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/17.0.10/javafx-media-17.0.10-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.10/javafx-fxml-17.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.10/javafx-graphics-17.0.10-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/17.0.10/javafx-fxml-17.0.10-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-media/17.0.10/javafx-media-17.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.10/javafx-base-17.0.10-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.10/javafx-base-17.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.13.0/commons-io-2.13.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/17.0.10/javafx-controls-17.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.10/javafx-graphics-17.0.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/dlsc/formsfx/formsfx-core/11.6.0/formsfx-core-11.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
